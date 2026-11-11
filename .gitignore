@@ -1,0 +1,9 @@
+MOD/
+work/
+dist/
+*.modpack
+*.zip
+DoL-Compatibility-Report-*.json
+__pycache__/
+*.pyc
+node_modules/
